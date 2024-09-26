@@ -5,7 +5,6 @@ Backend Developer
 -----------------
 
 *   🌍  I'm based in Paris / Lyon
-*   🖥️  See my portfolio at [MyPortfolio (under construction)](http://portfolio.com)
 *   ✉️  You can contact me at [plegulluche@gmail.com](mailto:plegulluche@gmail.com)
 *   🚀  I'm currently working on [Personnal projects involving IOT .](http://perso.com)
 *   🧠  I'm learning React and sysadmin
