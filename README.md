@@ -7,7 +7,7 @@ Backend Developer
 *   🌍  I'm based in Paris / Lyon
 *   ✉️  You can contact me at [plegulluche@gmail.com](mailto:plegulluche@gmail.com)
 *   🚀  I'm currently working on [Personnal projects involving IOT .](http://perso.com)
-*   🧠  I'm learning React and sysadmin
+*   🧠  I'm learning React and sysadmin on Linuxes OS.
 *   🤝  I'm open to collaborating on Anything exept for crypto or web 3 projects.
 *   ⚡  I love ducks but don't tell anyone
 
