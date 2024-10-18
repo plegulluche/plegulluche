@@ -1,6 +1,8 @@
 Hi 👋 My name is Pierre Le gulluche
 ===================================
+
 I'm a backend developer with a deep passion for technology, always eager to explore new fields and push my limits. Whether it's IoT, DevOps, or system administration, I love diving into personal projects like setting up connected home automation systems or configuring a home server to host my applications. My goal is to continuously improve as a developer while embracing the ever-evolving world of IT. If you're interested in exploring how backend development meets innovation, feel free to check out my projects and get in touch ! 
+
 -----------------
 
 *   🌍  I'm based in Paris / Lyon
