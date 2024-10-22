@@ -7,7 +7,7 @@ I'm a backend developer with a deep passion for technology, always eager to expl
 
 *   🌍  I'm based in Paris / Lyon
 *   ✉️  You can contact me at [plegulluche@gmail.com](mailto:plegulluche@gmail.com)
-*   🚀  I'm currently working on [Discord Bot.]([Discord](https://github.com/plegulluche/Discord-bot))
+*   🚀  I'm currently working on [Discord Bot.](https://github.com/plegulluche/Discord-bot)
 *   🧠  I'm learning React and sysadmin on Linuxes OS.
 *   🤝  I'm open to collaborating on Anything exept for crypto or web 3 projects.
 *   ⚡  I love ducks but don't tell anyone
